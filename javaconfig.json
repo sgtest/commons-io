@@ -1,0 +1,13 @@
+{
+    "projects": {
+        "/": {
+            "artifactId": "commons-io",
+            "groupId": "commons-io",
+            "version": "2.7-SNAPSHOT",
+            "sourceDirectories": ["src/main/java"],
+            "testSourceDirectories": ["src/test/java"],
+            "jars": [],
+            "compilerOptions": []
+        }
+    }
+}
